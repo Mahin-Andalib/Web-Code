@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin's Home Page</title>
+</head>
+<body>
+    <form>
+        <table>
+            <h1>Welcome Bob! </h1>
+            <tr>
+                <td>
+                    <a href="adminProfile.php">Profile</a>
+                </td>
+            </tr>
+            </tr>
+                <td>
+                    <a href="change_password.php">Change Password</a>
+                </td>
+            </tr>
+            </tr>
+                <td>
+                    <a href="View Users.php">View Users</a>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="logout.php">Logout</a>
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>
